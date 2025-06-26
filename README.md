@@ -5,8 +5,8 @@ I'm ✨ Audrey ✨, a nerd obsessed with computing, cognition, and applied philo
 In my spare time, I'm vibe coding an agent framework because it seems less intimidating than writing a blog. I'm two failures in!
 
 * The first time I let Claude go wild, and it produced gorgeous nothing.
-* The second time I gave it a ton of domain knowledge, but not enough technical direction.
-* This time I'm experimenting with instructions, fine-grained context and tool management, and more sophisticated prompts.
+* The second time I gave it specific prompts but carte blanche tool access. Gorgeous spaghetti.
+* This time I'm experimenting with context management, fine-grained tool permissions, and more sophisticated prompts.
 
 🤞🏻 Here's hoping the third time's the charm!
 
