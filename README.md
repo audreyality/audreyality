@@ -6,7 +6,7 @@ My team is [looking for a full stack engineer](https://bitwarden.com/careers/660
 
 Some of my accomplishments:
 
-* I wrote the [credential generator packages](https://github.com/bitwarden/clients/tree/main/libs/tools/generator) for the JavaScript clients. Documentation coming soon!
+* I wrote the [credential generator packages](https://github.com/bitwarden/clients/tree/main/libs/tools/generator) for the JavaScript clients. [Documentation](https://github.com/bitwarden/contributing-docs/pull/595) coming soon!
 * For the 2025 Innovation Sprint, I helped build an [Achivements prototype](https://github.com/bitwarden/clients/pull/13766).
 * I wrote an [ADR about TypeScript enums](https://contributing.bitwarden.com/architecture/adr/ts-deprecate-enums)!
 
