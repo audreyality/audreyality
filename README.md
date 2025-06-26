@@ -1,11 +1,17 @@
-## Hi there 👋
+# Hi there 👋
 
-I enabled this before I knew what I was doing. 
+I'm ✨ Audrey ✨, an engineer at Bitwarden!
 
-> [!NOTE] 
-> **There will be content!**
-> 
-> But, like, sometime later. Maybe a podcast, or maybe random AI stuff, or maybe neato bitwarden stuff.
+My team is [looking for a full stack engineer](https://bitwarden.com/careers/6602420003/)!
 
-> [!IMPORTANT] 
-> Definitely not right now, though.
+Some of my accomplishments:
+
+* I wrote the [generator packages](https://github.com/bitwarden/clients/tree/main/libs/tools/generator) for the JavaScript clients. Documentation coming soon!
+* For the 2025 Innovation Sprint, I helped build an [Achivements prototype](https://github.com/bitwarden/clients/pull/13766).
+* I wrote an [ADR about TypeScript enums](https://contributing.bitwarden.com/architecture/adr/ts-deprecate-enums)!
+
+At work, I'm [adding features](https://github.com/bitwarden/server/pull/5857) to Bitwarden Send!
+
+In my spare time, I'm writing an agent framework because it seems easier than writing a blog by hand.
+
+![alt text](image.png)
