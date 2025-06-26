@@ -12,7 +12,7 @@ Some of my accomplishments:
 
 At work, I'm [adding features](https://github.com/bitwarden/server/pull/5857) to Bitwarden Send!
 
-In my spare time, I'm vibe coding an agent framework because it seems less intimidating than writing a blog by hand. I'm two failures in!
+In my spare time, I'm vibe coding an agent framework because it seems less intimidating than writing a blog. I'm two failures in!
 
 * The first time I let Claude go wild, and it produced gorgeous nothing.
 * The second time it got crushed by a lack of instructions and workflow.
