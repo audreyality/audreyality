@@ -12,7 +12,7 @@ In my spare time, I'm vibe coding an agent framework because it seems less intim
 
 -----
 
-🧑‍💻 My team is [hiring a full stack engineer](https://bitwarden.com/careers/6602420003/)!
+I was an open source enthusiast back in my college days. I don't have much to show off, but I do have many fond memories. A few years back, a colleague reached out asking if I'd like to return to my roots. It's been nearly two years and it's undoubtedly among the best decisions I've made.
 
 Some of the stuff I've done since becoming a contributor:
 
@@ -23,3 +23,5 @@ Some of the stuff I've done since becoming a contributor:
 - [x] I wrote an [ADR about TypeScript enums](https://contributing.bitwarden.com/architecture/adr/ts-deprecate-enums)!
 
 I'm currently [adding features](https://github.com/bitwarden/server/pull/5857) to Bitwarden Send!
+
+If projects like these excite you, consider applying! My team is [hiring a full stack engineer](https://bitwarden.com/careers/6602420003/)!
