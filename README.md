@@ -2,13 +2,16 @@
 
 I'm ✨ Audrey ✨, a nerd obsessed with computing, cognition, and applied philosophy.
 
-In my spare time, I'm vibe coding an agent framework because it seems less intimidating than writing a blog. I'm two failures in!
+In my spare time, I'm experimenting with LLMs and agents because it seems less intimidating than writing a blog.
+
+My first experiments concerned an agent framework, stonekin.project:
 
 * The first time I let Claude go wild, and it produced gorgeous nothing.
 * The second time I gave it specific prompts but carte blanche tool access. Gorgeous spaghetti.
-* This time I'm experimenting with context management, fine-grained tool permissions, and more sophisticated prompts.
 
-🤞🏻 Here's hoping the third time's the charm!
+Coding is on hold while I develop a greater undertanding of [cybernetics](https://en.wikipedia.org/wiki/Cybernetics).
+
+My current focus is on understanding how to leverage agentic programming assistants on large codebases.
 
 -----
 
