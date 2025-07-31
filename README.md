@@ -4,12 +4,7 @@ I'm ✨ Audrey ✨, a nerd obsessed with computing, cognition, and applied philo
 
 In my spare time, I'm experimenting with LLMs and agents because it seems less intimidating than writing a blog.
 
-My first experiments concerned an agent framework, stonekin.project:
-
-* The first time I let Claude go wild, and it produced gorgeous nothing.
-* The second time I gave it specific prompts but carte blanche tool access. Gorgeous spaghetti.
-
-Coding is on hold while I develop a greater undertanding of [cybernetics](https://en.wikipedia.org/wiki/Cybernetics).
+My first experiments concerned an agent framework, [stonekin.project](https://github.com/audreyality/stonekin.project). Coding is on hold while I develop a greater undertanding of [cybernetics](https://en.wikipedia.org/wiki/Cybernetics) to flesh out the [project's domains](https://github.com/audreyality/stonekin.project/blob/main/docs/adr/0012-documentation.md).
 
 My current focus is on understanding how to leverage agentic programming assistants on large codebases.
 
