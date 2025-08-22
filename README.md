@@ -10,7 +10,7 @@ While I flesh out my understanding, I'm building a virtual environment to host m
 
 ----
 
-Some of the stuff I've done since becoming a contributor:
+Some of the stuff I've done since becoming a Bitwarden engineer:
 
 - I wrote the [credential generator packages](https://github.com/bitwarden/clients/tree/main/libs/tools/generator) for the JavaScript clients.
 - For the 2025 Innovation Sprint, I helped build an [Achivements prototype](https://github.com/bitwarden/clients/pull/13766).
