@@ -1,6 +1,6 @@
 # Hi there 👋🏻
 
-I'm ✨ Audrey ✨, a nerd obsessed with computing, cognition, and applied philosophy.
+I'm ✨ Audrey ✨, a nerd obsessed with computing, cognition, and social sciences.
 
 In my spare time, I'm experimenting with LLMs and agents because it seems less intimidating than writing a blog.
 
@@ -14,4 +14,4 @@ Some of the stuff I've done since becoming a Bitwarden engineer:
 
 - I wrote the [credential generator packages](https://github.com/bitwarden/clients/tree/main/libs/tools/generator) for the JavaScript clients.
 - For the 2025 Innovation Sprint, I helped build an [Achivements prototype](https://github.com/bitwarden/clients/pull/13766).
-- I wrote an [ADR about TypeScript enums](https://contributing.bitwarden.com/architecture/adr/ts-deprecate-enums)!
+- I wrote an [ADR about TypeScript enums](https://contributing.bitwarden.com/architecture/adr/ts-deprecate-enums).
