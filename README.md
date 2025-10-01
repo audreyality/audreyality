@@ -2,7 +2,7 @@
 
 I'm ✨ Audrey ✨, a nerd obsessed with computing, cognition, and social sciences.
 
-My tech projects are presently on hold while I sort out some personal matters.
+All of my tech projects, both professional and personal, are on hold while I sort out some personal matters.
 
 ----
 
